@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.54d7357e.chunk.css",
-    "main.js": "/static/js/main.a080254e.chunk.js",
-    "main.js.map": "/static/js/main.a080254e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3ebb7e4d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3ebb7e4d.js.map",
-    "static/css/2.f4c56af9.chunk.css": "/static/css/2.f4c56af9.chunk.css",
-    "static/js/2.e3702169.chunk.js": "/static/js/2.e3702169.chunk.js",
-    "static/js/2.e3702169.chunk.js.map": "/static/js/2.e3702169.chunk.js.map",
-    "static/js/3.9e5ab723.chunk.js": "/static/js/3.9e5ab723.chunk.js",
-    "static/js/3.9e5ab723.chunk.js.map": "/static/js/3.9e5ab723.chunk.js.map",
+    "main.css": "/static/css/main.31a57eb6.chunk.css",
+    "main.js": "/static/js/main.1cb80c7a.chunk.js",
+    "main.js.map": "/static/js/main.1cb80c7a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.948befe4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.948befe4.js.map",
+    "static/css/2.bf625f3d.chunk.css": "/static/css/2.bf625f3d.chunk.css",
+    "static/js/2.302ffd63.chunk.js": "/static/js/2.302ffd63.chunk.js",
+    "static/js/2.302ffd63.chunk.js.map": "/static/js/2.302ffd63.chunk.js.map",
+    "static/js/3.6c0ba873.chunk.js": "/static/js/3.6c0ba873.chunk.js",
+    "static/js/3.6c0ba873.chunk.js.map": "/static/js/3.6c0ba873.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.f4c56af9.chunk.css.map": "/static/css/2.f4c56af9.chunk.css.map",
-    "static/css/main.54d7357e.chunk.css.map": "/static/css/main.54d7357e.chunk.css.map",
-    "static/js/2.e3702169.chunk.js.LICENSE.txt": "/static/js/2.e3702169.chunk.js.LICENSE.txt",
+    "static/css/2.bf625f3d.chunk.css.map": "/static/css/2.bf625f3d.chunk.css.map",
+    "static/css/main.31a57eb6.chunk.css.map": "/static/css/main.31a57eb6.chunk.css.map",
+    "static/js/2.302ffd63.chunk.js.LICENSE.txt": "/static/js/2.302ffd63.chunk.js.LICENSE.txt",
     "static/media/chance.364eb615.png": "/static/media/chance.364eb615.png",
     "static/media/communitychest.808e2eb7.png": "/static/media/communitychest.808e2eb7.png",
     "static/media/hotel.5bcef9c6.png": "/static/media/hotel.5bcef9c6.png",
@@ -23,10 +23,10 @@
     "static/media/thimble.a704ebd9.png": "/static/media/thimble.a704ebd9.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3ebb7e4d.js",
-    "static/css/2.f4c56af9.chunk.css",
-    "static/js/2.e3702169.chunk.js",
-    "static/css/main.54d7357e.chunk.css",
-    "static/js/main.a080254e.chunk.js"
+    "static/js/runtime-main.948befe4.js",
+    "static/css/2.bf625f3d.chunk.css",
+    "static/js/2.302ffd63.chunk.js",
+    "static/css/main.31a57eb6.chunk.css",
+    "static/js/main.1cb80c7a.chunk.js"
   ]
 }
